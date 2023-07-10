@@ -1,0 +1,10 @@
+.header-container{
+    background-color: rgb(87, 87, 249);
+    margin: 8px;
+}
+
+.h-item{
+    color: white;
+    margin: 15px 20px 15px 20px;
+    cursor: pointer;
+}
